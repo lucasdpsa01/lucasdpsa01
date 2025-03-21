@@ -10,3 +10,18 @@
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdpsa01&layout=compact)](https://github.com/lucasdpsa01/)
 
 #### Apaixonado por tecnologia, linguagens e viver através da programação. 😁
+
+
+## Proejtos
+
+### Meteorologia:
+- Descrição: Aplicação de temperatura
+- Tecnologias: React.js
+
+### Dark Mode:
+- Descrição: Aplicação onde troca de tema.
+- Tecnologias: React.js
+
+### Paivacritic:
+- Descrição: Aplicação de avaliação de jogos.
+- Tecnologias: React.js, Node.js e Postgres
