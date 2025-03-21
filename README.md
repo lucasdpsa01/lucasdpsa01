@@ -12,7 +12,7 @@
 #### Apaixonado por tecnologia, linguagens e viver através da programação. 😁
 
 
-## Proejtos
+## Projetos
 
 ### Meteorologia:
 - Descrição: Aplicação de temperatura
