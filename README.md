@@ -1,27 +1,18 @@
-### Olá! Eu sou Lucas Paiva 👋
-
-### Minhas redes sociais
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucas.paiva01/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/lucass845584)
-
-### Linguagens que uso
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdpsa01&layout=compact)](https://github.com/lucasdpsa01/)
-
-#### Apaixonado por tecnologia, linguagens e viver através da programação. 😁
+# 💫 About Me:
+Aluno do UniCeub, apaixonado por programação<br>Desenvolvedor Full-Stack mais focado no <br>desenvolvimento web.<br>
 
 
-## Projetos
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucas.psaiva01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Lucas Daniel Paiva de Sá) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucasdsa2801@gmail.com) 
 
-### Meteorologia:
-- Descrição: Aplicação de temperatura
-- Tecnologias: React.js
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lucasdpsa01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lucasdpsa01&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdpsa01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Dark Mode:
-- Descrição: Aplicação onde troca de tema.
-- Tecnologias: React.js
+---
+[![](https://visitcount.itsvg.in/api?id=lucasdpsa01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Paivacritic:
-- Descrição: Aplicação de avaliação de jogos.
-- Tecnologias: React.js, Node.js e Postgres
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
